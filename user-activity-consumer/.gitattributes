@@ -1,0 +1,54 @@
+# Compiled Java classes
+*.class
+
+# Package files (JAR, WAR, EAR)
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA related files
+.idea/
+*.iml
+
+# Eclipse related files
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans related files
+build/
+dist/
+nbproject/
+
+# VS Code related files
+.vscode/
+
+# Maven build output
+target/
+
+# Gradle build output
+.gradle/
+build/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.backup
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Spring Boot devtools restart
+spring-boot-devtools.properties
+
+# H2 database files (if you're using file-based persistence)
+*.mv.db
+*.trace.db
+
+# Docker related (if you have local volumes or other specific needs)
+# /
